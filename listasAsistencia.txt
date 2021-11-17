@@ -1,0 +1,36 @@
+Materia: jvkjdskj
+Dia:lunes
+Hora:20
+Salon: 12-233
+Aforo permitido 4
+ 
+______________
+ 
+Lista de aistencia 1;
+ 
+Sara asiste presencial
+Sofia asiste presencial
+Amalia asiste presencial
+Antonia asiste presencial
+ 
+Lista de aistencia 2;
+ 
+Sara asiste presencial
+Sofia asiste presencial
+Juan asiste presencial
+Jose asiste presencial
+ 
+Lista de aistencia 3;
+ 
+Amalia asiste presencial
+Antonia asiste presencial
+Juan asiste presencial
+Jose asiste presencial
+ 
+Lista de aistencia 4;
+ 
+Sara asiste presencial
+Sofia asiste presencial
+Amalia asiste presencial
+Antonia asiste presencial
+ 
